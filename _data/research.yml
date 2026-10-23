@@ -1,0 +1,71 @@
+- image: research_rns_seeg.jpg
+  title: "Responsive Neurostimulation Therapy Outcomes in Two Small Bilateral Thalamic and Corticothalamic Subgroups of Patients with Drug-Resistant Epilepsy-A Single-Center Experience"
+  link: https://www.mdpi.com/2673-4087/7/4/92
+  advisor: Irina Podkorytova
+  department: Neurology, Division of Epilepsy
+  topics: [Stereoelectroencephalography, Neuromodulation, Seizure localization]
+- image: research_fenfluramine.jpg
+  title: "Sustained seizure freedom with fenfluramine for refractory epilepsy due to 7q32-q34 deletion syndrome"
+  link: https://pubmed.ncbi.nlm.nih.gov/42417157/
+  advisor: Irfan Sheikh, MD
+  department: Neurology, Division of Epilepsy
+  topics: [Genetic epilepsy syndrome]
+- image: research_podgpt.jpg
+  title: "PodGPT: an audio-augmented large language model for research and education"
+  link: https://www.nature.com/articles/s44385-025-00022-0
+  advisor: Vijaya Kolachalama, PhD
+  lab: Kolachalama Lab
+  lab_link: https://vkola-lab.github.io/
+  department: Medicine and Computer Science
+  topics: [Artificial intelligence, Neurology, Computer science]
+- image: research_pupillometry.jpg
+  title: "Early pupil abnormality frequency predicts poor outcomes and enhances international mission for prognosis and analysis of clinical trials in traumatic brain injury (IMPACT) model prognostication in traumatic brain injury"
+  link: https://pubmed.ncbi.nlm.nih.gov/40299976/
+  advisor: Charlene Ong, MD, MPHS
+  lab: Ong Lab
+  lab_link: https://www.researchgate.net/lab/Charlene-Ong-Lab
+  department: Neurology, Division of Neurocritical Care
+  topics: [Pupillometry, Traumatic brain injury, Prognostication]
+- image: research_neuroblastoma.jpg
+  title: "CKLF promotes Treg-mediated immune evasion and tumor aggressiveness in MYCN-driven high-risk neuroblastoma"
+  link: https://www.science.org/doi/10.1126/sciadv.adh9547
+  advisor: Hui Feng, MD, PhD
+  lab: Feng Lab
+  lab_link: https://www.bu.edu/zgct/
+  department: Pharmacology and Experimental Therapeutics (zebrafish genetics and cancer therapeutics)
+  topics: [Basic science, Neuroblastoma]
+- image: research_nlp_cardiology.jpg
+  title: "Developing a natural language processing algorithm for cardiology imaging records"
+  link: http://www.bumc.bu.edu/busm/files/2021/01/veerapaneni-divya.pdf
+  advisor: Simon Christopher Body, MD
+  department: Anesthesiology
+  topics: [Cardiology, Machine learning]
+- image: research_kidney_fibrosis.jpg
+  title: "Deep learning-driven quantification of interstitial fibrosis in digitized kidney biopsies"
+  link: https://pubmed.ncbi.nlm.nih.gov/34033750/
+  extra_link: https://ajp.amjpathol.org/article/S0002-9440(21)00208-X/fulltext
+  extra_label: Full text
+  advisor: Vijaya Kolachalama, PhD
+  lab: Kolachalama Lab
+  lab_link: https://vkola-lab.github.io/
+  department: Medicine and Computer Science
+  topics: [Machine learning, Nephrology, Pathology]
+- image: research_glomeruli.jpg
+  title: "Co-segmentation of glomeruli on histological images from multiple stains using deep learning"
+  lab: Kolachalama Lab
+  lab_link: https://vkola-lab.github.io/
+  department: Medicine and Computer Science
+  topics: [Machine learning, Nephrology, Imaging]
+- image: research_kidney_inflammation.jpg
+  title: "Deep learning-driven localization and classification of inflammatory regions in digitized kidney biopsies"
+  lab: Kolachalama Lab
+  lab_link: https://vkola-lab.github.io/
+  department: Medicine and Computer Science
+  topics: [Machine learning, Nephrology, Imaging]
+- image: research_streetcred.jpg
+  title: "Resource navigation in primary care during the first year of life: the StreetCred economic bundle"
+  link: https://publications.aap.org/pediatrics/article/156/1/e2023065286/202040/Resource-Navigation-in-Primary-Care-During-the
+  advisor: Lucy Marcil, MD, MPH
+  advisor_link: https://www.ted.com/speakers/lucy_marcil
+  department: Pediatrics
+  topics: [Social determinants of health, Public health, Pediatrics]
