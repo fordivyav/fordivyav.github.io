@@ -6,7 +6,7 @@ nav: true
 nav_order: 2
 ---
 
-Research projects and publications spanning epilepsy, neurocritical care, machine learning for medicine, and public health, listed with the labs and advisors involved.
+Research projects and publications spanning epilepsy, neurocritical care, machine learning for medicine, and public health.
 
 <div class="research">
 {% for e in site.data.research %}

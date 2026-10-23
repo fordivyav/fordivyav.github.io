@@ -52,12 +52,14 @@
   topics: [Machine learning, Nephrology, Pathology]
 - image: research_glomeruli.jpg
   title: "Co-segmentation of glomeruli on histological images from multiple stains using deep learning"
+  advisor: Vijaya Kolachalama, PhD
   lab: Kolachalama Lab
   lab_link: https://vkola-lab.github.io/
   department: Medicine and Computer Science
   topics: [Machine learning, Nephrology, Imaging]
 - image: research_kidney_inflammation.jpg
   title: "Deep learning-driven localization and classification of inflammatory regions in digitized kidney biopsies"
+  advisor: Vijaya Kolachalama, PhD
   lab: Kolachalama Lab
   lab_link: https://vkola-lab.github.io/
   department: Medicine and Computer Science

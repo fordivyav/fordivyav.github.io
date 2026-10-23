@@ -1,6 +1,17 @@
 ---
 layout: default
 ---
+<style>
+  .post-title .title-social {
+    font-size: 0.4em;
+    top: -1.4em;
+    margin-left: 0.15em;
+  }
+  .post-title .title-social a {
+    color: var(--global-theme-color);
+    text-decoration: none;
+  }
+</style>
 <div class="post">
   <header class="post-header">
     <h1 class="post-title">
@@ -10,6 +21,7 @@ layout: default
       {% else %}
         {{ site.title }}
       {% endif %}
+      <sup class="title-social">{% social_links %}</sup>
     </h1>
     <p class="desc">{{ page.subtitle }}</p>
   </header>
@@ -32,12 +44,6 @@ layout: default
             cache_bust=true
           %}
         {% endif %}
-        <div class="header" style="margin-bottom: 1rem; text-align: center;">
-          {% if page.profile.more_info %}
-            <div class="more-info">{{ page.profile.more_info }}</div>
-          {% endif %}
-          <div class="contact-icons" style="margin: auto;">{% social_links %}</div>
-        </div>
       </div>
     {% endif %}
 
