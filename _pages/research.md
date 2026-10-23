@@ -8,6 +8,8 @@ nav_order: 2
 
 Research projects and publications spanning epilepsy, neurocritical care, machine learning for medicine, and public health.
 
+Please see the list of publications at [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=Veerapaneni+D&cauthor_id=42417157){:target="_blank" rel="noopener"} for the most up-to-date work.
+
 <div class="research">
 {% for e in site.data.research %}
   <div class="row research-entry">
